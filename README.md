@@ -1,5 +1,5 @@
 # Windows Subsystem for Linux - Enable 32bit executable support
-Windows Subsystem fro Linux (WSL) does not support 32bit executables. 
+Windows Subsystem for Linux (WSL) does not support 32bit executables. 
 This script enables execution of 32bit executables via QEMU.
 
 #### Setup
